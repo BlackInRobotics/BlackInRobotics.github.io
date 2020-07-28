@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+show_downloads: false
+title: Robotics Diversity Reading List
+description: A collection of researchers and papers to build a more diverse community.
+collections:
+  people:
+    sort_by: 'last_name'

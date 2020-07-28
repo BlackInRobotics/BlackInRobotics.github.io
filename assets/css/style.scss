@@ -1,0 +1,69 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content{
+  font-size: 0.85rem;
+  max-width: 80rem;
+}
+
+@media only screen 
+and (max-device-width : 500px) { /* STYLES GO HERE */
+
+.person img{
+  float: none;
+  width: 150px;
+  min-width: 150px;
+  padding-right: 7px;
+}
+
+}
+  
+
+@media only screen 
+and (min-device-width : 500px) { /* STYLES GO HERE */
+
+.person img{
+  float: left;
+  width: 150px;
+  min-width: 150px;
+  padding-right: 7px;
+}
+
+}
+  
+.person p{
+    margin-block-start: 0.2rem;
+    margin-block-end: 0rem;
+}
+
+.person h2{
+  margin-top: 0px;
+  margin-bottom: 0.2rem;
+}
+
+.persondesc{
+  display: grid;
+}
+
+.person::after {
+  content: "";
+  clear: both;
+  display: table;
+  padding-block-end: 1em;
+}
+
+.person table{
+  border: 0px;
+}
+
+.person table tr{
+  border: 0px;
+}
+
+.person table td{
+  border:0px;
+  padding: 0.25rem;
+  vertical-align: top;
+}
