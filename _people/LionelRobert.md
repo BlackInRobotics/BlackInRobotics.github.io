@@ -1,7 +1,7 @@
 ---
 first_name: Lionel P.
 last_name: Robert Jr.
-title: Associate Professor of Information, School of Information
+title: Associate Professor of Information
 school: University of Michigan
 website: https://sites.google.com/a/umich.edu/lionelrobert/
 image: https://robotics.umich.edu/wp-content/uploads/2018/12/Lionel_Robert.jpg
