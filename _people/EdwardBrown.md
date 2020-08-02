@@ -4,7 +4,7 @@ last_name: Brown Jr.
 title: Associate Professor of Electrical and Microelectronic Engineering
 school: Rochester Institute of Technology
 website: https://www.rit.edu/directory/eebeee-edward-brown
-image: https://claws.rit.edu/photos/getphotoid.php?Client=Marketing&UN=eebeee&HASH=a54e597efcb77ebb211a167d68a8f44924461654&T=1596293560
+image: https://www.rit.edu/academicaffairs/sites/rit.edu.academicaffairs/files/images/edbrown.jpg
 ---
 Prof. Brown runs the [Biomechatronic Learning Laboratory](https://www.rit.edu/kgcoe/electrical/bll/index.html) where he studies rehabilitation robotics. He focuses on developing intelligent orthotics and wearable robotic systems that use human physical and physiological information to aid individuals with diseases and disabilities that affect the skeletal musculature of their upper-limb extremities.
 * Gebregiorgis, Adey L., and Edward E. Brown. "[Using Hidden Markov Models to track upper extremity arm motions for surface electromyographic based robot teleoperation.](https://ieeexplore.ieee.org/abstract/document/6880975?casa_token=luTWuCW6guoAAAAA:xdJcuRPrsUWZJ9D5GNvE76DNk_aPAMqNLvEUvT3jU2a4_vwBKTAEvhjzgYagvTyeUH6j4kpw4w)" 5th ISSNIP-IEEE Biosignals and Biorobotics Conference (2014): Biosignals and Robotics for Better and Safer Living (BRC). IEEE, 2014.
