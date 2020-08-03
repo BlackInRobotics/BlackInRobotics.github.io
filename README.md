@@ -1,10 +1,24 @@
-## Welcome to GitHub Pages
+## Black in Robotics Reading List
 
-You can use the [editor on GitHub](https://github.com/DiversityInRobotics/DiversityInRobotics.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The reading list in published form can be found here: [https://blackinrobotics.github.io/](https://blackinrobotics.github.io/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you would like to make any corrections, add a researcher, or update a researcher profile, you can do so either through a Pull Request on this repostiory or send changes over [email](mailto:amj1+blackinrobotics@andrew.cmu.edu). Before doing so, please review the introductory text and example profiles [on the published list](https://blackinrobotics.github.io/). In particular take note of the scope (which for now is Black professors in the US researching robotics and related fields) and format for the description (~2 sentences, 3 highlight papers). Researcher profiles are maintained as individual Markdown files in the [_people](_people) folder, using the following [template](_people/_Template.md):
+
+```
+---
+first_name:   
+last_name: 
+title: 
+school: 
+website: 
+image: 
+---
+body text goes here
+```
 
 ### Markdown
+
+(The remainder of this Readme constains the usual GitHub Readme information):
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
