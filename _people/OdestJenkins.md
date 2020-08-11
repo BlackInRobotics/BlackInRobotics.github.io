@@ -1,5 +1,5 @@
 ---
-first_name: Odest Chadwick
+first_name: Odest Chadwicke
 last_name: Jenkins
 title: Professor of Computer Science and Engineering
 school: University of Michigan
