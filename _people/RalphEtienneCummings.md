@@ -3,7 +3,7 @@ first_name: Ralph
 last_name: Etienne-Cummings
 title: Professor of Electrical & Computer Engineering
 school: Johns Hopkins University
-website: https://engineering.jhu.edu/csms/
+website: https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/
 image: https://engineering.jhu.edu/ece/wp-content/uploads/2014/06/21.jpg
 ---
 Prof. Etienne-Cummings leads the [Computational Sensory-Motor Systems Lab](https://engineering.jhu.edu/csms/) which has recently focused on research into brain-machine interfaces and neural prosthesis devices. Other areas of research he has contributed to include neurally inspired control for legged robots, development of neural prosthetic devices, and image and video analysis.
