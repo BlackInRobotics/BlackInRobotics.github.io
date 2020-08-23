@@ -1,10 +1,10 @@
 ---
-first_name: Jeremy
+first_name: Jeremy D.
 last_name: Brown
 title: John C. Malone Assistant Professor of Mechanical Engineering
 school: Johns Hopkins University
 website: https://hamr.lcsr.jhu.edu/professor-jeremy-d-brown/
-image: https://hamr.lcsr.jhu.edu/wp-content/uploads/2020/03/JHU4297-682x1024-1.jpg
+image: https://blackinrobotics.github.io/img/JeremyDBrown.jpeg
 ---
 Prof. Brown runs the [Haptics and Medical Robotics (HAMR) lab](https://hamr.lcsr.jhu.edu/) and his research sits at the intersection of engineering, biomechatronics, medicine, and psychophysics. He develops novel haptic interfaces for upper-limb prosthetics and minimally invasive surgical robotics.
 * Brown, Jeremy D., et al. "[Co-location of force and action improves identification of force-displacement features.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6183789)" 2012 IEEE Haptics Symposium (HAPTICS). IEEE, 2012.
