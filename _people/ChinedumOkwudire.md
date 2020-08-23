@@ -4,7 +4,7 @@ last_name: Okwudire
 title: Associate Professor of Mechanical Engineering
 school: University of Michigan
 website: https://me.engin.umich.edu/people/faculty/chinedum-okwudire
-image: https://me.engin.umich.edu/sites/default/files/styles/professor_profile_image/public/faculty/IMG_4995-web.jpg
+image: https://blackinrobotics.github.io/img/ChinedumOkwudire.JPG
 ---
 Prof. Okwudire directs the [Smart and Sustainable Automation Research Lab](http://s2a-lab.engin.umich.edu/). His research expertise is in machine design, dynamics, control, and mechatronics applied to smart manufacturing and 3D printing automation. 
 * Duan, Molong, Deokkyun Yoon, and Chinedum E. Okwudire. "[A limited-preview filtered B-spline approach to tracking control–With application to vibration-induced error compensation of a 3D printer](https://umich.box.com/s/n9cvs27ckehdr64gzv5igtmboykymgk6)." _Mechatronics_ 56 (2018): 287-296.
