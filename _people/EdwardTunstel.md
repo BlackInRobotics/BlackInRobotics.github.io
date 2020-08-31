@@ -3,7 +3,7 @@ first_name: Edward
 last_name: Tunstel
 title: Associate Director and Group Leader
 school: Raytheon Technologies Research Center
-website: https://www.linkedin.com/in/edward-tunstel-360a204/
+website: https://sites.google.com/site/tunstel/
 image: https://www-robotics.jpl.nasa.gov/images/people-827.jpg
 ---
 Dr. Tunstel is an associate director of the Autonomous and Intelligent Systems Department at Raytheon, prior to which he was a Senior Robotics Engineer at NASA JPL and an Adjunct Professor for the Institute for Intelligent Systems Research and Innovation at Deakin University. His expertise is in robot navigation, fuzzy logic and autonomous behavior-based control, and applications of soft computing techniques to intelligent systems.
