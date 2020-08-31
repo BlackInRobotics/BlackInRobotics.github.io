@@ -3,8 +3,8 @@ first_name: Edward
 last_name: Tunstel
 title: Associate Director and Group Leader
 school: Raytheon Technologies Research Center
-website: https://www.thehistorymakers.org/biography/edward-tunstel
-image: http://techlav.ncat.edu/images/Advisory%20Board/Ed%20Tunstel.jpg
+website: https://www-robotics.jpl.nasa.gov/people/Edward_Tunstel/
+image: https://www-robotics.jpl.nasa.gov/images/people-827.jpg
 ---
 Dr. Tunstel is an associate director of the Autonomous and Intelligent Systems Department at Raytheon, prior to which he was a Senior Robotics Engineer at NASA JPL and an Adjunct Professor for the Institute for Intelligent Systems Research and Innovation at Deakin University. His expertise is in robot navigation, fuzzy logic and autonomous behavior-based control, and applications of soft computing techniques to intelligent systems.
 - E. Tunstel, M.A.A. de Oliveira, and S. Berman, "[Fuzzy Behavior Hierarchies for Multi-Robot Control,](https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.10032)" International Journal of Intelligent Systems, Special Issue: Hierarchical Fuzzy Systems, Vol. 17, No. 5, 2002, pp. 449-470.
