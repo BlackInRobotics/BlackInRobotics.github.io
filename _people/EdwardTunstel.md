@@ -4,7 +4,7 @@ last_name: Tunstel
 title: Associate Director and Group Leader
 school: Raytheon Technologies Research Center
 website: https://sites.google.com/site/tunstel/
-image: https://www-robotics.jpl.nasa.gov/images/people-827.jpg
+image: https://blackinrobotics.github.io/img/ETunstel_ISC.png
 ---
 Dr. Tunstel is an associate director of robotics in the Autonomous and Intelligent Systems Department at Raytheon Technologies Research Center, prior to which he was a Senior Roboticist at Johns Hopkins APL, and a Senior Robotics Engineer at NASA JPL before that. His expertise is in robot navigation, approximate reasoning for autonomous behavior-based control, human-robot systems, and applications of soft computing techniques to intelligent systems. 
 - Tunstel, E. “[Fuzzy-Behavior Synthesis, Coordination, and Evolution in an Adaptive Behavior Hierarchy](https://link.springer.com/chapter/10.1007%2F978-3-7908-1835-2_9),” in Saffiotti, A. and Driankov, D. (Eds.) Fuzzy Logic Techniques for Autonomous Vehicle Navigation, Studies in Fuzziness and Soft Computing Series, Vol. 61, Physica-Verlag, Heidelberg; New York, 2001.
