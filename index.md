@@ -15,6 +15,8 @@ The diversity of [researchers in academia](https://www.pewresearch.org/fact-tank
 
 **Who is on this list?** The focus of this list is Black professors and other leading researchers in the US who work in robotics and related fields. While there are many groups that are underrepresented in academic robotics (including Indigenous/Native people, Latinx people, people with disabilities, and [women](https://us-women-in-robotics-research.github.io/)), there is a particularly long and persistent history of suppression of Black Americans in the US. Similarly, this list is primarily Black robotics faculty members, but there are also many great roboticists in industry, and many great academics outside of robotics (e.g. [computing](https://blackcomputeher.org/citeher-bibliography/), [AI](https://blackinai.github.io/), [neuro](https://www.blackinneuro.com/profiles)), who should also be celebrated. 
 
+**Read More: <a href="https://spectrum.ieee.org/automaton/at-work/education/supporting-black-scholars-in-robotics">Supporting Black Scholars in Robotics</a>** - _IEEE Spectrum Automation Blog_, Sep. 10, 2020
+
 <hr>
 
 {% assign items = site.people | sort: 'last_name' %}
