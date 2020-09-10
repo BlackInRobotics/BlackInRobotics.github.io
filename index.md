@@ -1,3 +1,5 @@
+<div style="text-align: right"> <a href="http://blackinrobotics.org"> &lt;&lt;&lt; Back to the Black in Robotics Organization </div>
+
 ## Black in Robotics Reading List
 
 >_"U.S. history is racist, and the responsibility for fixing systemic racism within [an] institution lies with current members of the institution."_ -[Black in Engineering](https://blackinengineering.org/action-item-list/)
