@@ -1,4 +1,4 @@
-<div style="text-align: right"> <a href="http://blackinrobotics.org"> &larr; Back to the Black in Robotics Organization </div>
+<div style="text-align: right"> <a href="http://blackinrobotics.org"> &lt;&lt;&lt; Back to the Black in Robotics Organization </a> </div>
 
 ## Black in Robotics Reading List
 
