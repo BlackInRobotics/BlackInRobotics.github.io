@@ -4,7 +4,7 @@ last_name: Taylor
 title: Raymond S. Markowitz President's Distinguished Professor of Computer and Information Science
 school: University of Pennsylvania
 website: https://www.cis.upenn.edu/~cjtaylor/
-image: https://www.grasp.upenn.edu/sites/default/files/styles/profile/public/images/taylor_3501_0.jpg
+image: https://www.grasp.upenn.edu/wp-content/uploads/2020/12/Taylor-3501-1.jpg
 ---
 Prof. Taylor is the Associate Dean of Diversity Equity and Inclusion in the School of Engineering and Applied Science and is a leader in the field of computer vision with specific interest in 3D model reconstruction, robot navigation and scene understanding.
 * Das, A.K., et al. "[A vision-based formation control framework](https://ieeexplore.ieee.org/abstract/document/1068000)." _IEEE Transactions on Robotics_ 18.5 (2002): 813-825.
