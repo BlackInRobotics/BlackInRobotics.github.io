@@ -4,7 +4,7 @@ last_name: Crawford
 title: Assistant Professor of Computer Science
 school: University of Alabama
 website: http://www.chrissmithcrawford.com/
-image: https://cs.ua.edu/wp-content/uploads/2017/08/1708052_MW_049_chris_crawford-800x1000.jpg
+image: https://images.squarespace-cdn.com/content/v1/5d7fd241e8251322d42fd2b9/1613321959168-AR3RO540APJU7AE15V00/ke17ZwdGBToddI8pDm48kJpJ1fPc8kLIjpwta9BaF297gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmW5SZw0zY0wEgct1jJcv4nLlRh82_3jCwPE9ddhuyc0PMSp0K4gWLaEuRob08_9Ys/chris_crawford_headshot.jpg?format=500w
 ---
 Prof. Crawford directs the [Human-Technology Interaction Lab](http://htil.cs.ua.edu/). His work focuses on Brain-Computer Interfaces (BCI) and Human-Robot Interaction (HRI).
 * Andujar, Marvin, et al. "[Artistic brain-computer interfaces: the expression and stimulation of the user’s affective state.](https://www.tandfonline.com/doi/abs/10.1080/2326263X.2015.1104613)" Brain-computer interfaces 2.2-3 (2015): 60-69.
