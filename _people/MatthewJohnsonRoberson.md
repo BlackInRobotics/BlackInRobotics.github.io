@@ -4,7 +4,7 @@ last_name: Johnson-Roberson
 title: Associate Professor of Naval Architecture & Marine Engineering and Electrical Engineering & Computer Science
 school: University of Michigan
 website: https://droplab.engin.umich.edu/matthew-johnson-roberson
-image: https://name.engin.umich.edu/wp-content/uploads/sites/5/2017/05/Johnson-Roberson-600x600.jpg
+image: https://robotics.umich.edu/wp-content/uploads/2018/12/mattjr.jpg
 ---
 Prof. Johnson-Roberson leads the DROP (Deep Robot Optical Perception) Laboratory and co-directs the UM Ford Center for Autonomous Vehicles (FCAV). 
 Prof. Johnson-Roberson's group is focused on 3D reconstruction, segmentation, data mining, and visualization.
