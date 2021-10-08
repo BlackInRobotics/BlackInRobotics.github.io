@@ -4,7 +4,7 @@ last_name: Etienne-Cummings
 title: Professor of Electrical & Computer Engineering
 school: Johns Hopkins University
 website: https://engineering.jhu.edu/ece/faculty/etienne-cummings-ralph/
-image: https://engineering.jhu.edu/ece/wp-content/uploads/2014/06/21.jpg
+image: https://engineering.jhu.edu/ece/wp-content/uploads/2021/06/etienne-cummings-ralph-300x300.jpg
 ---
 Prof. Etienne-Cummings leads the [Computational Sensory-Motor Systems Lab](https://engineering.jhu.edu/csms/) which has recently focused on research into brain-machine interfaces and neural prosthesis devices. Other areas of research he has contributed to include neurally inspired control for legged robots, development of neural prosthetic devices, and image and video analysis.
 * Tenore, Francesco, et al. "[Towards the control of individual fingers of a prosthetic hand using surface EMG signals.](https://pubmed.ncbi.nlm.nih.gov/18003418/)" 2007 29th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE, 2007.
