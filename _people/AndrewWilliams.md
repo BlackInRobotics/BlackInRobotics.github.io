@@ -4,7 +4,7 @@ last_name: Williams
 title: Associate Dean for Diversity, Equity, and Inclusion and the Charles E. and Mary Jane Spahr Professor in Electrical Engineering and Computer Science
 school: University of Kansas
 website: https://engr.ku.edu/andrew-williams#link1
-image: https://engr.ku.edu/sites/engr.ku.edu/files/williams_andrew.jpg
+image: https://engr.ku.edu/sites/engr/files/styles/portrait_col_xl_3/public/images/person-profile/notable/Andrew%20Williams%20portrait%20copy.jpg
 ---
 Prof. Williams directs the Humanoid Engineering & Intelligent Robotics (HEIR) Lab. His research aims to develop the theory and engineering principles for humanoid robots to cooperate intuitively and creatively with humans and other robots using principles from developmental artificial intelligence. An interview with Prof. Williams is included in the [History Makers](https://www.thehistorymakers.org/biography/andrew-williams) collection.
 * Williams, Andrew B. "[Learning to share meaning in a multi-agent system.](https://www.researchgate.net/profile/Andrew_Williams18/publication/220660580_Learning_to_Share_Meaning_in_a_Multi-Agent_System/links/0046352950ad3770cb000000.pdf)" Autonomous Agents and Multi-Agent Systems 8.2 (2004): 165-193.
