@@ -2,7 +2,7 @@
 
 The reading list in published form can be found here: [https://blackinrobotics.github.io/](https://blackinrobotics.github.io/). 
 
-If you would like to make any corrections, add a researcher, or update a researcher profile, you can do so either through a Pull Request on this repostiory or send changes over [email](mailto:amj1+blackinrobotics@andrew.cmu.edu). Before doing so, please review the introductory text and example profiles [on the published list](https://blackinrobotics.github.io/). In particular take note of the scope (which for now is Black professors and other leading researchers in the US researching robotics and related fields) and format for the description (~2 sentences, 3 highlight papers). Researcher profiles are maintained as individual Markdown files in the [_people](_people) folder, using the following [template](_people/_Template.md):
+If you would like to make any corrections, add a researcher, or update a researcher profile, you can do so either through a Pull Request on this repository or send changes over [email](mailto:amj1+blackinrobotics@andrew.cmu.edu). Before doing so, please review the introductory text and example profiles [on the published list](https://blackinrobotics.github.io/). In particular take note of the scope (which for now is Black professors and other leading researchers in the US researching robotics and related fields) and format for the description (~2 sentences, 3 highlight papers). Researcher profiles are maintained as individual Markdown files in the [_people](_people) folder, using the following [template](_people/_Template.md):
 
 ```
 ---

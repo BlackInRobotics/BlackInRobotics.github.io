@@ -3,7 +3,7 @@ first_name: Daniel
 last_name: Jacobs
 title: Assistant Professor of Mechanical Engineering
 school: Temple University 
-website: http://www.danielajacobs.com/
+website: https://engineering.temple.edu/about/faculty-staff/daniel-a-jacobs-tug91537
 image: https://sites.temple.edu/rise/files/2017/02/DanielJacobsSmall-300x287.jpg
 ---
 Prof. Jacobs leads the [Robotics in Interdisciplinary Science and Engineering (RISE) Lab](https://sites.temple.edu/rise/). His primary research focus is in wearable robotics and augmenting human gait performance.

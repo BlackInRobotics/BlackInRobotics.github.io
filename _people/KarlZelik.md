@@ -3,8 +3,8 @@ first_name: Karl
 last_name: Zelik
 title: Assistant Professor of Mechanical Engineering
 school: Vanderbilt University
-website: https://engineering.vanderbilt.edu/bio/karl-zelik
-image: https://engineering.vanderbilt.edu/images/people/image.php/Zelik-Karl.jpg?width=200&image=/images/people/Zelik-Karl.jpg
+website: https://www.vumc.org/pmr/person/karl-zelik-phd
+image: https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-1192-ZelikKarl-20230816163311.jpg
 ---
 Prof. Zelik leads the [Biomechanics & Assistive Technology Laboratory](https://my.vanderbilt.edu/batlab/) and co-founded [HeroWear](https://herowearexo.com/), an exosuit spin-off company from his lab. He strives to improve health and mobility for individuals with disabilities, and to enhance human capabilities by engineering and understanding technologies such as prostheses, exoskeletons, smart clothing and wearables that physically augment human performance and well-being.  
 * Lamers, Erik P., Aaron J. Yang, and Karl E. Zelik. "[Feasibility of a biomechanically-assistive garment to reduce low back loading during leaning and lifting.](https://ieeexplore.ieee.org/document/8063426/)" IEEE Transactions on Biomedical Engineering 65.8 (2017): 1674-1680.
