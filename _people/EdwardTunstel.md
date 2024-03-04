@@ -1,8 +1,8 @@
 ---
 first_name: Edward
 last_name: Tunstel
-title: Associate Director and Group Leader
-school: Raytheon Technologies Research Center
+title: Chief Technology Officer
+school: Motiv Space Systems Inc.
 website: https://sites.google.com/site/tunstel/
 image: https://blackinrobotics.github.io/img/ETunstel_ISC.png
 ---
