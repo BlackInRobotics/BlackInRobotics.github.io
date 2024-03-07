@@ -1,12 +1,12 @@
 ---
 first_name: Tahira
 last_name: Reid Smith
-title: Associate Professor of Mechanical Engineering
-school: Purdue University
-website: https://engineering.purdue.edu/ME/People/ptProfile?resource_id=74127
+title: Professor in Mechanical Engineering and Engineering Design 
+school: Penn State University
+website: https://www.me.psu.edu/department/directory-detail-g.aspx?q=tpr5404
 image: https://engineering.purdue.edu/ResourceDB/ResourceFiles/image74131
 ---
-Prof. Reid Smith leads the [Research in Engineering and Interdisciplinary Design (REID) Lab](https://engineering.purdue.edu/reidlab/) at Purdue University. She studies how to integrate human-centered design into human-machine systems.
-- Akash, Kumar, et al. "[Human Trust-based Feedback Control: Dynamically varying automation transparency to optimize human-machine interactions.](https://arxiv.org/pdf/2006.16353.pdf)" arXiv preprint arXiv:2006.16353 (2020).
-- Hu, Wan-Lin, et al. "[Real-time sensing of trust in human-machine interactions.](https://engineering.purdue.edu/reidlab/assets/2016_Hu_Akash_Jain_Reid.pdf)" IFAC-PapersOnLine 49.32 (2016): 48-53
-- Reid, Tahira N., Richard D. Gonzalez, and Panos Y. Papalambros. "[Quantification of perceived environmental friendliness for vehicle silhouette design.](https://asmedigitalcollection.asme.org/mechanicaldesign/article/132/10/101010/450739)" Journal of mechanical design 132.10 (2010). 
+Prof. Reid Smith is a Professor at Penn State University in Mechanical Engineering and Engineering Design and the Associate Department Head for Inclusive Research and Education. Her previous work includes the [Research in Engineering and Interdisciplinary Design (REID) Lab](https://engineering.purdue.edu/reidlab/) at Purdue University where she lead research in human-centered considerations in the design process and human-machine systems.
+* T. Reid and C. Berdanier, "[Design Sprints in Research: A Novel Approach for Enhancing the Professional Development of Graduate Students](https://ieeexplore.ieee.org/document/10343398)," 2023 IEEE Frontiers in Education Conference (FIE), College Station, TX, USA, 2023, pp. 1-8.
+* Jain, N., Reid, T., Akash, K., Yuh, M. and Hunter, J. (2023). [Enabling Human-Aware Autonomy Through Cognitive Modeling and Feedback Control](https://doi.org/10.1002/9781119857433.ch5). In Cyber–Physical–Human Systems (eds A.M. Annaswamy, P.P. Khargonekar, F. Lamnabhi-Lagarrigue and S.K. Spurgeon).
+* Hunter JG, Ulwelling E, Konishi M, Michelini N, Modali A, Mendoza A, Snyder J, Mehrotra S, Zheng Z, Kumar AR, Akash K, Misu T, Jain N, Reid T. [The future of mobility-as-a-service: trust transfer across automated mobilities, from road to sidewalk](https://doi.org/10.3389/fpsyg.2023.1129583). Front Psychol. 2023 May 12;14:1129583. doi: 10.3389/fpsyg.2023.1129583. PMID: 37251058; PMCID: PMC10219791.
