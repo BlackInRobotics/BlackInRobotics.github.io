@@ -1,8 +1,8 @@
 ---
 first_name: Chinwe  
 last_name: Ekenna
-title: Assistant Professor of Computer Science
-school: University of Albany
+title: Associate Professor of Computer Science
+school: University at Albany
 website: https://www.albany.edu/computer-science/faculty/chinwe-ekenna
 image: https://www.albany.edu/sites/default/files/styles/person_page_thumbnail/public/2016_10_25_Chinwe%20Ekenna_10.jpg
 ---
