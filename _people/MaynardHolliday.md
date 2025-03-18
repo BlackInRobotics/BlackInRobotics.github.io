@@ -1,7 +1,7 @@
 ---
 first_name: Maynard
 last_name: Holliday, MSc
-title: Assistant Secretary of Defense for Critical Technologies
+title: (former) Assistant Secretary of Defense for Critical Technologies
 school: Office of the Under Secretary of Defense, Research and Engineering 
 website: https://www.defense.gov/About/Biographies/Biography/Article/2762694/maynard-holliday/
 image: https://images.squarespace-cdn.com/content/v1/5ef3dc8b4ce85b460be19b98/1593134579117-6429CSDX5QGV3BBYY6UR/ke17ZwdGBToddI8pDm48kEi6jd-8FPnQ8D-LERa9tzJZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHJpvhFKnKUeVj4Qkkq6mGHPKjS-e_5BAMjsJWrZPFRtgwOTLmG3bsrBAwDNZFfO_U/Maynard.SES.jpeg?format=1000w
