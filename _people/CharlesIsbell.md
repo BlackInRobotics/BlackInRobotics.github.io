@@ -4,7 +4,7 @@ last_name: Isbell
 title: Provost and Vice Chancellor for Academic Affairs and Hilldale Professor
 school: University of Wisconsin–Madison
 website: https://provost.wisc.edu/meet-the-provost/
-image: https://static01.nyt.com/images/2016/10/05/upshot/05up-masters/29UP-Masters-superJumbo.jpg
+image: https://provost.wisc.edu/wp-content/uploads/sites/181/2023/08/Isbell-Charles-web_cropped_200.jpg
 ---
 Provost Isbell's research focuses on designing systems that are capable of interacting with one another and with humans in reasonable ways using techniques such as machine learning and game theory. Provost Isbell founded the [pfunk](https://www.cc.gatech.edu/~isbell/iai/people.shtml) research group within the Lab for Interactive Artificial Intelligence at Georgia Tech.
 * Bansal, Shray, et al. "[A Bayesian Framework for Nash Equilibrium Inference in Human-Robot Parallel Play](https://www.cc.gatech.edu/~isbell/papers/pplay_rss2020.pdf)." _Robotics: Science and Systems_ (2020).
