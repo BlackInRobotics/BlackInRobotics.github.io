@@ -1,10 +1,10 @@
 ---
 first_name: Matthew 
 last_name: Johnson-Roberson
-title: Professor and Director of the Robotics Institute
-school: Carnegie Mellon University
-website: https://www.ri.cmu.edu/ri-faculty/matt-johnson-roberson/
-image: https://www.ri.cmu.edu/wp-content/uploads/2021/11/mjr-headshot-01-scaled.jpg
+title: Dean of the College of Connected Computing
+school: Vanderbilt University
+website: https://computing.vanderbilt.edu/bio/matthew-johnson-roberson/
+image: https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-3664-MatthewJohnsonRoberson0034.JPG-20250804135026.jpg
 ---
 Prof. Johnson-Roberson leads the [DROP (Deep Robot Optical Perception) Laboratory](https://droplab.ri.cmu.edu/). 
 Prof. Johnson-Roberson's group is focused on 3D reconstruction, segmentation, data mining, and visualization.
