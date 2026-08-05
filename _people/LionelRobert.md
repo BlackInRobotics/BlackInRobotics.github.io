@@ -4,7 +4,7 @@ last_name: Robert Jr.
 title: Professor of Information
 school: University of Michigan
 website: https://robotics.umich.edu/profile/lionel-robert/
-image: https://robotics.umich.edu/wp-content/uploads/2018/12/Lionel_Robert.jpg
+image: https://robotics.umich.edu/_astro/lprobert.Dj60Vvpv_aOxha.webp
 ---
 Prof. Robert is an Army vet and the director of the [Michigan Autonomous Vehicle Research Intergroup Collaboration](https://mavric.si.umich.edu/). In his own words he focuses on “collaboration through and with technology”, studying trust and teamwork in human-human and human-machine teams, including robots and autonomous vehicles. 
 * Eglash, R., Robinson, K., Bennett, A., Robert, L.P., & Garvin, M. (2024). "[Computational Reparations as Generative Justice: Decolonial Transitions to Unalienated Circular Value Flow](https://journals.sagepub.com/doi/10.1177/20539517231221732)", Big Data & Society, Vol 11.
