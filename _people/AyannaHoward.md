@@ -1,9 +1,9 @@
 ---
 first_name: Ayanna
 last_name: Howard
-title: Dean of the College of Engineering
-school: Ohio State University
-website: https://engineering.osu.edu/people/howard.1727
+title: President
+school: Spelman College
+website: https://www.spelman.edu/leadership/presidents-office/president-howard.html
 image: https://people.engineering.osu.edu/sites/default/files/styles/coe_3_4_medium/public/2021-05/Dean_Howard_-_web_portrait.jpg
 ---
 Prof. Howard's research is centered around applying human-inspired techniques to intelligent systems. Prof. Howard is the founder and president of the board of directors of Zyrobotics, a company that develops mobile therapy and educational products for children with special needs. She has also done significant work in improving robotics education for students of all ages: from childhood all the way to graduate-level education.
