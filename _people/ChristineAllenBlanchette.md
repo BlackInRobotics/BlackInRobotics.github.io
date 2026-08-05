@@ -4,7 +4,7 @@ last_name: Allen-Blanchette
 title: Assistant Professor of Mechanical and Aerospace Engineering
 school: Princeton University 
 website: https://cablanc.github.io/
-image: https://mae.princeton.edu/sites/default/files/styles/person_detail/public/3-2%20aspect%20ratio.jpg?h=f7c23b30&itok=8Lno-Kiu
+image: https://cablanc.github.io/assets/img/logo.png
 ---
 Christine Allen-Blanchette's research interests lie at the intersection of deep learning, geometry and dynamical systems. Her recent work includes physics-informed video generation and models for agent interactions. 
 
