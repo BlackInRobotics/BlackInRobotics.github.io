@@ -4,7 +4,7 @@ last_name: Hammond III
 title: Assistant Professor of Mechanical Engineering
 school: Georgia Tech
 website: https://www.me.gatech.edu/faculty/hammond
-image: https://bme.gatech.edu/bme/sites/default/files/styles/faculty_pic/public/pictures/frank-hammond.jpg
+image: https://www.me.gatech.edu/sites/default/files/styles/faculty_image_thumbnail/public/pictures/2022-09/Frank%20Headshotweb.jpg?itok=ReBPF117
 ---
 Prof. Hammond directs the [The Adaptive Robotic Manipulation (ARM) Laboratory](http://pwp.gatech.edu/hammond/). His research focuses on a variety of topics in robotic manipulation, including underactuated robotic grasping, kinematically redundant manipulation, teleoperative robotic surgery surgical training, and wearable human augmentation devices.
 * Hammond, Frank L., Yiğit Mengüç, and Robert J. Wood. "[Toward a modular soft sensor-embedded glove for human hand motion and tactile pressure measurement.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6943125)" _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2014.
